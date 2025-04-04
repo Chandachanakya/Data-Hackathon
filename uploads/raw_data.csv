@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,City,Score
+101,Alice,25.0,50000,New York,85.0
+102,Bob,30.0,60000,Los Angeles,90.0
+103,Chris,28.0,55000,Chicago,78.0
+104,Alice,25.0,50000,New York,85.0
+105,David,22.0,40000,Houston,
+106,Emma,,75000,San Diego,95.0
+107,Frank,27.0,1200000,Boston,88.0
+108,Grace,26.0,65000,Seattle,92.0
+109,Henry,32.0,70000,Denver,80.0
+110,Ivy,29.0,71000,Miami,
